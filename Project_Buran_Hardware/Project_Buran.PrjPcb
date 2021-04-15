@@ -75,13 +75,13 @@ GenerateClassCluster=0
 DocumentUniqueId=NGLTGAHM
 
 [Document3]
-DocumentPath=project_buran_schematic_a02.SchDoc
+DocumentPath=ExportPCB.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=1
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -89,10 +89,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WLAQLUWD
+DocumentUniqueId=
 
 [Document4]
-DocumentPath=project_buran_a02.PcbDoc
+DocumentPath=project_buran.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -109,7 +109,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GADHYEDT
 
 [Document5]
-DocumentPath=ExportPCB.OutJob
+DocumentPath=project_buran_schematic.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
