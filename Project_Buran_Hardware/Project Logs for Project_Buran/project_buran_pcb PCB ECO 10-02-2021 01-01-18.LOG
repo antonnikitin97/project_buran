@@ -1,0 +1,4 @@
+Change Component Comment : Designator=R11 Old Comment=CRCW0603110RFKEA New Comment=33R
+Change Component Comment : Designator=R14 Old Comment=CRCW0603110RFKEA New Comment=33R
+Change Net Name : Old Net Name=NetJ2_2 New Net Name=D-_N
+Change Net Name : Old Net Name=NetJ2_3 New Net Name=D+_P

@@ -1,0 +1,41 @@
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Change Component Designator: OldDesignator=PS? NewDesignator=PS1
+Added Pin To Net: NetName=OUT13 Pin=S2-L4
+Added Pin To Net: NetName=OUT16 Pin=S4-L4
+Added Pin To Net: NetName=OUT19 Pin=S6-L4
+Added Pin To Net: NetName=OUT22 Pin=S7-L4
+Added Member To Class: ClassName=project_buran_schematic Member=Component 1 M50-3500542
+Added Member To Class: ClassName=project_buran_schematic Member=Component C1 1uF
+Added Member To Class: ClassName=project_buran_schematic Member=Component C2 1uF
+Added Member To Class: ClassName=project_buran_schematic Member=Component C3 100nF
+Added Member To Class: ClassName=project_buran_schematic Member=Component C4 100nF
+Added Member To Class: ClassName=project_buran_schematic Member=Component C5 4.7uF
+Added Member To Class: ClassName=project_buran_schematic Member=Component C6 1uF
+Added Member To Class: ClassName=project_buran_schematic Member=Component C7 1uF
+Added Member To Class: ClassName=project_buran_schematic Member=Component C8 1uF
+Added Member To Class: ClassName=project_buran_schematic Member=Component C9 1uF
+Added Member To Class: ClassName=project_buran_schematic Member=Component D1 POWER LED
+Added Member To Class: ClassName=project_buran_schematic Member=Component D2 LED 1
+Added Member To Class: ClassName=project_buran_schematic Member=Component IC1 MAX803SQ308T1G
+Added Member To Class: ClassName=project_buran_schematic Member=Component IC2 ATSAMD11D14A-SSUT
+Added Member To Class: ClassName=project_buran_schematic Member=Component IC3 LP5012PWR
+Added Member To Class: ClassName=project_buran_schematic Member=Component IC4 LP5012PWR
+Added Member To Class: ClassName=project_buran_schematic Member=Component J1 292303-7
+Added Member To Class: ClassName=project_buran_schematic Member=Component PS1 TLV75733PDBVR
+Added Member To Class: ClassName=project_buran_schematic Member=Component R1 30R
+Added Member To Class: ClassName=project_buran_schematic Member=Component R2 30R
+Added Member To Class: ClassName=project_buran_schematic Member=Component R3 4K7
+Added Member To Class: ClassName=project_buran_schematic Member=Component R4 10K
+Added Member To Class: ClassName=project_buran_schematic Member=Component R5 4K7
+Added Member To Class: ClassName=project_buran_schematic Member=Component R6 2K4
+Added Member To Class: ClassName=project_buran_schematic Member=Component R7 2K4
+Added Member To Class: ClassName=project_buran_schematic Member=Component S1 465M111172501
+Added Member To Class: ClassName=project_buran_schematic Member=Component S2 PB26-13M-B-WT-RGB-N
+Added Member To Class: ClassName=project_buran_schematic Member=Component S3 465M111172501
+Added Member To Class: ClassName=project_buran_schematic Member=Component S4 PB26-13M-B-WT-RGB-N
+Added Member To Class: ClassName=project_buran_schematic Member=Component S5 465M111172501
+Added Member To Class: ClassName=project_buran_schematic Member=Component S6 PB26-13M-B-WT-RGB-N
+Added Member To Class: ClassName=project_buran_schematic Member=Component S7 PB26-13M-B-WT-RGB-N
+Added Member To Class: ClassName=project_buran_schematic Member=Component S8 465M111172501
+Added Member To Class: ClassName=project_buran_schematic Member=Component SW1 FSM4JSMA
+Added Member To Class: ClassName=project_buran_schematic Member=Component Y1 AB38T-32.768KHZ

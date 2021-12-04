@@ -1,0 +1,34 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [project_buran_a01.PcbDoc]
+   Generated File[project_buran_a01.GTO]
+   Generated File[project_buran_a01.GTP]
+   Generated File[project_buran_a01.GTS]
+   Generated File[project_buran_a01.GTL]
+   Generated File[project_buran_a01.GBL]
+   Generated File[project_buran_a01.GBS]
+   Generated File[project_buran_a01.GBP]
+   Generated File[project_buran_a01.GBO]
+   Generated File[project_buran_a01.GM1]
+   Generated File[project_buran_a01.GM5]
+   Generated File[project_buran_a01.GM13]
+   Generated File[project_buran_a01.GM15]
+   Generated File[project_buran_a01.GM16]
+   Generated File[project_buran_a01.GM20]
+   Generated File[project_buran_a01.GM21]
+   Generated File[project_buran_a01.GM23]
+   Generated File[project_buran_a01.GM24]
+   Generated File[project_buran_a01.GKO]
+   Generated File[project_buran_a01.GPT]
+   Generated File[project_buran_a01.GPB]
+   Generated File[project_buran_a01.GML]
+   Generated File[project_buran_a01.1]
+   Generated File[project_buran_a01.RUL]
+   Generated File[project_buran_a01.EXTREP]
+   Generated File[project_buran_a01.REP]
+
+
+Files Generated   : 25
+Documents Printed : 0
+
+Finished Output Generation At 01:59:28 On 22/05/2021
