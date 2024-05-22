@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: project_buran_a01.PcbDoc   23/03/2021  00:03:31
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : project_buran_a01.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.411mm)                                           Round             209       PTH        0.00inch (0.00mm)
+T2      22mil (0.55mm)                                            Round             2         PTH        0.00inch (0.00mm)
+T3      32mil (0.8mm)                                             Round             24        PTH        0.00inch (0.00mm)
+T4      43mil (1.1mm)                                             Round             10        PTH        0.00inch (0.00mm)
+T5      91mil (2.3mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T6      51mil (1.3mm)                                             Round             16        NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              263
+
+Total Processing Time (hh:mm:ss) : 00:00:00

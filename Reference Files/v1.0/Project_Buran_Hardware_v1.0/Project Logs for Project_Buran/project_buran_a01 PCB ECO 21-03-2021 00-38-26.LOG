@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=OUT9 Pin=S4-L1
+Removed Pin From Net: NetName=OUT10 Pin=S4-L2
+Change Component Designator: OldDesignator=DEBUG_1 NewDesignator=D2
+Change Component Designator: OldDesignator=DEBUG_2 NewDesignator=D3
+Change Component Designator: OldDesignator=POWER NewDesignator=D1
+Added Pin To Net: NetName=OUT10 Pin=S4-L1
+Added Pin To Net: NetName=OUT9 Pin=S4-L2

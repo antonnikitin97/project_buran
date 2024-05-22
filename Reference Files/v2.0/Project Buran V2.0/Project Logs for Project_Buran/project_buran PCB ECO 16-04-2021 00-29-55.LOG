@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=GND Pin=J1-4
+Removed Pin From Net: NetName=GND Pin=J1-6
+Change Component Footprint: Designator=J1 Old Footprint=FP-292303-7-MFG New Footprint=17340353
+Change Component Comment : Designator=J1 Old Comment=292303-7 New Comment=1734035-3
+Change Component Comment : Designator=R1 Old Comment=CRCW0603110RFKEA New Comment=2K4
+Change Component Comment : Designator=R2 Old Comment=CRCW0603110RFKEA New Comment=4K7
+Change Component Comment : Designator=R3 Old Comment=CRCW0603110RFKEA New Comment=4K7
+Change Component Comment : Designator=R4 Old Comment=CRCW0603110RFKEA New Comment=10K
+Change Component Comment : Designator=R5 Old Comment=CRCW0603110RFKEA New Comment=30R
+Change Component Comment : Designator=R6 Old Comment=CRCW0603110RFKEA New Comment=30R
+Change Component Comment : Designator=R7 Old Comment=CRCW0603110RFKEA New Comment=30R
+Change Component Comment : Designator=C1 Old Comment=GRM188R60J106ME47D New Comment=1uF
+Change Component Comment : Designator=C2 Old Comment=GRM188R60J106ME47D New Comment=1uF
+Change Component Comment : Designator=C3 Old Comment=GRM188R60J106ME47D New Comment=1uF
+Change Component Comment : Designator=C7 Old Comment=GRM188R60J106ME47D New Comment=1uF
+Change Component Comment : Designator=C6 Old Comment=GRM188R60J106ME47D New Comment=4.7uF
+Change Component Comment : Designator=C4 Old Comment=GRM188R60J106ME47D New Comment=100nF
+Change Component Comment : Designator=C5 Old Comment=GRM188R60J106ME47D New Comment=100nF
+Change Managed Component Library Link : Designator=J1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=D1803F24-9B28-4700-A1E3-0F0FA8B0C124 New ItemGUID= Old RevisionGUID=4C5EAEC6-00BC-49D6-A68C-A64897600951 New RevisionGUID=
+Change component parameters: Designator = "J1" ("J1"); Footprint = "FP-292303-7-MFG"; UniqueID = "\MNAWWGBZ" ("\MNAWWGBZ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "1734035-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1734035-3/te-connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734035%7FF%7Fpdf%7FEnglish%7FENG_CD_1734035_F.pdf%7F1734035-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "3.95mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1734035-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "571-1734035-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/1734035-3?qs=JQ0T48ZyHbB%2Fl8a%2FPKP6Xw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-MP1
+Added Pin To Net: NetName=GND Pin=J1-MP2
+Added Pin To Net: NetName=GND Pin=J1-MP3
+Added Pin To Net: NetName=GND Pin=J1-MP4

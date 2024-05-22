@@ -1,0 +1,10 @@
+Output: PCB 3D Print
+Type  : PCB 3D Print
+From  : Variant [[No Variations]] of PCB Document [project_buran_a01.PcbDoc]
+   Generated File[project_buran_a01.png]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 19:00:24 On 08/12/2021

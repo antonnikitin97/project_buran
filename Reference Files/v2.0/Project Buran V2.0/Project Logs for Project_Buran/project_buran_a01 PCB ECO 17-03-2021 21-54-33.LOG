@@ -1,0 +1,38 @@
+Added Component: Designator=IC1(SOP65P640X120-24N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/ds/symlink/lp5012.pdf?ts=1615929314042&ref_url=https%253A%252F%252Fwww.mouser.co.uk%252F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LP5012PWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-LP5012PWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LP5012PWR/?qs=T94vaHKWudSL6jLwBy12Hg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=IC1-1
+Added Pin To Net: NetName=GND Pin=IC1-2
+Added Pin To Net: NetName=GND Pin=IC1-3
+Added Pin To Net: NetName=VCC Pin=IC1-4
+Added Pin To Net: NetName=SDA Pin=IC1-5
+Added Pin To Net: NetName=GND Pin=IC1-6
+Added Pin To Net: NetName=SCL Pin=IC1-7
+Added Pin To Net: NetName=VCC Pin=IC1-8
+Added Pin To Net: NetName=NetIC1_9 Pin=IC1-9
+Added Pin To Net: NetName=NetC1_1 Pin=IC1-10
+Added Pin To Net: NetName=OUT0 Pin=IC1-12
+Added Pin To Net: NetName=OUT1 Pin=IC1-13
+Added Pin To Net: NetName=OUT2 Pin=IC1-14
+Added Pin To Net: NetName=OUT3 Pin=IC1-15
+Added Pin To Net: NetName=OUT4 Pin=IC1-16
+Added Pin To Net: NetName=OUT5 Pin=IC1-17
+Added Pin To Net: NetName=GND Pin=IC1-18
+Added Pin To Net: NetName=OUT6 Pin=IC1-19
+Added Pin To Net: NetName=OUT7 Pin=IC1-20
+Added Pin To Net: NetName=OUT8 Pin=IC1-21
+Added Pin To Net: NetName=OUT9 Pin=IC1-22
+Added Pin To Net: NetName=OUT10 Pin=IC1-23
+Added Pin To Net: NetName=OUT11 Pin=IC1-24
+Added Member To Class: ClassName=project_buran_schematic Member=Component C1 GRM188R60J106ME47D
+Added Member To Class: ClassName=project_buran_schematic Member=Component C2 GRM188R60J106ME47D
+Added Member To Class: ClassName=project_buran_schematic Member=Component C3 GRM188R60J106ME47D
+Added Member To Class: ClassName=project_buran_schematic Member=Component IC1 LP5012PWR
+Added Member To Class: ClassName=project_buran_schematic Member=Component R1 CRCW0603110RFKEA
+Added Member To Class: ClassName=project_buran_schematic Member=Component R3 CRCW0603110RFKEA

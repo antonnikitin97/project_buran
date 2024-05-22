@@ -1,0 +1,1736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>D:\Hardware Projects\Project Buran\project_buran\kicad\buran\buran.kicad_sch</source>
+    <date>11/05/2024 21:04:54</date>
+    <tool>Eeschema 7.0.10</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>buran.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>1uF</value>
+      <footprint>SamacSys_Parts:CAPC1608X87N</footprint>
+      <datasheet>https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">C0603C180F5GACTU</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/c0603c180f5gactu/kemet-corporation?region=nac</field>
+        <field name="Description">SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120</field>
+        <field name="Height">0.87</field>
+        <field name="Manufacturer_Name">KEMET</field>
+        <field name="Manufacturer_Part_Number">C0603C180F5GACTU</field>
+        <field name="Mouser Part Number">80-C0603C180F5G</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/KEMET/C0603C180F5GACTU?qs=nRD1PKnFC2GPi%2FOLc6pETA%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys" part="C0603C180F5GACTU" description="SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120"/>
+      <property name="Description" value="SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120"/>
+      <property name="Height" value="0.87"/>
+      <property name="Manufacturer_Name" value="KEMET"/>
+      <property name="Manufacturer_Part_Number" value="C0603C180F5GACTU"/>
+      <property name="Mouser Part Number" value="80-C0603C180F5G"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/KEMET/C0603C180F5GACTU?qs=nRD1PKnFC2GPi%2FOLc6pETA%3D%3D"/>
+      <property name="Arrow Part Number" value="C0603C180F5GACTU"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/c0603c180f5gactu/kemet-corporation?region=nac"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <property name="ki_description" value="SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f3dbe729-6c1d-4a89-a074-3d85ac86dcdf</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1uF</value>
+      <footprint>SamacSys_Parts:CAPC1608X87N</footprint>
+      <datasheet>https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">C0603C180F5GACTU</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/c0603c180f5gactu/kemet-corporation?region=nac</field>
+        <field name="Description">SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120</field>
+        <field name="Height">0.87</field>
+        <field name="Manufacturer_Name">KEMET</field>
+        <field name="Manufacturer_Part_Number">C0603C180F5GACTU</field>
+        <field name="Mouser Part Number">80-C0603C180F5G</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/KEMET/C0603C180F5GACTU?qs=nRD1PKnFC2GPi%2FOLc6pETA%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys" part="C0603C180F5GACTU" description="SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120"/>
+      <property name="Description" value="SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120"/>
+      <property name="Height" value="0.87"/>
+      <property name="Manufacturer_Name" value="KEMET"/>
+      <property name="Manufacturer_Part_Number" value="C0603C180F5GACTU"/>
+      <property name="Mouser Part Number" value="80-C0603C180F5G"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/KEMET/C0603C180F5GACTU?qs=nRD1PKnFC2GPi%2FOLc6pETA%3D%3D"/>
+      <property name="Arrow Part Number" value="C0603C180F5GACTU"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/c0603c180f5gactu/kemet-corporation?region=nac"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <property name="ki_description" value="SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64b7651e-2011-4c3b-adb9-e75ce5c4da6b</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100nF</value>
+      <footprint>SamacSys_Parts:CAPC1608X87N</footprint>
+      <datasheet>https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">C0603C180F5GACTU</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/c0603c180f5gactu/kemet-corporation?region=nac</field>
+        <field name="Description">SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120</field>
+        <field name="Height">0.87</field>
+        <field name="Manufacturer_Name">KEMET</field>
+        <field name="Manufacturer_Part_Number">C0603C180F5GACTU</field>
+        <field name="Mouser Part Number">80-C0603C180F5G</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/KEMET/C0603C180F5GACTU?qs=nRD1PKnFC2GPi%2FOLc6pETA%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys" part="C0603C180F5GACTU" description="SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120"/>
+      <property name="Description" value="SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120"/>
+      <property name="Height" value="0.87"/>
+      <property name="Manufacturer_Name" value="KEMET"/>
+      <property name="Manufacturer_Part_Number" value="C0603C180F5GACTU"/>
+      <property name="Mouser Part Number" value="80-C0603C180F5G"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/KEMET/C0603C180F5GACTU?qs=nRD1PKnFC2GPi%2FOLc6pETA%3D%3D"/>
+      <property name="Arrow Part Number" value="C0603C180F5GACTU"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/c0603c180f5gactu/kemet-corporation?region=nac"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <property name="ki_description" value="SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4fbfe116-9824-43ed-b12c-277ce97bfe24</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>47pF</value>
+      <footprint>SamacSys_Parts:CAPC1608X87N</footprint>
+      <datasheet>https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">C0603C180F5GACTU</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/c0603c180f5gactu/kemet-corporation?region=nac</field>
+        <field name="Description">SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120</field>
+        <field name="Height">0.87</field>
+        <field name="Manufacturer_Name">KEMET</field>
+        <field name="Manufacturer_Part_Number">C0603C180F5GACTU</field>
+        <field name="Mouser Part Number">80-C0603C180F5G</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/KEMET/C0603C180F5GACTU?qs=nRD1PKnFC2GPi%2FOLc6pETA%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys" part="C0603C180F5GACTU" description="SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120"/>
+      <property name="Description" value="SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120"/>
+      <property name="Height" value="0.87"/>
+      <property name="Manufacturer_Name" value="KEMET"/>
+      <property name="Manufacturer_Part_Number" value="C0603C180F5GACTU"/>
+      <property name="Mouser Part Number" value="80-C0603C180F5G"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/KEMET/C0603C180F5GACTU?qs=nRD1PKnFC2GPi%2FOLc6pETA%3D%3D"/>
+      <property name="Arrow Part Number" value="C0603C180F5GACTU"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/c0603c180f5gactu/kemet-corporation?region=nac"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <property name="ki_description" value="SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3dc78c25-9530-48d2-a6ec-7d12133b9793</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>47pF</value>
+      <footprint>SamacSys_Parts:CAPC1608X87N</footprint>
+      <datasheet>https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">C0603C180F5GACTU</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/c0603c180f5gactu/kemet-corporation?region=nac</field>
+        <field name="Description">SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120</field>
+        <field name="Height">0.87</field>
+        <field name="Manufacturer_Name">KEMET</field>
+        <field name="Manufacturer_Part_Number">C0603C180F5GACTU</field>
+        <field name="Mouser Part Number">80-C0603C180F5G</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/KEMET/C0603C180F5GACTU?qs=nRD1PKnFC2GPi%2FOLc6pETA%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys" part="C0603C180F5GACTU" description="SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120"/>
+      <property name="Description" value="SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120"/>
+      <property name="Height" value="0.87"/>
+      <property name="Manufacturer_Name" value="KEMET"/>
+      <property name="Manufacturer_Part_Number" value="C0603C180F5GACTU"/>
+      <property name="Mouser Part Number" value="80-C0603C180F5G"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/KEMET/C0603C180F5GACTU?qs=nRD1PKnFC2GPi%2FOLc6pETA%3D%3D"/>
+      <property name="Arrow Part Number" value="C0603C180F5GACTU"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/c0603c180f5gactu/kemet-corporation?region=nac"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <property name="ki_description" value="SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7bde6413-6653-4cac-95bd-7b64b2b98c71</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>10nF</value>
+      <footprint>SamacSys_Parts:CAPC1608X87N</footprint>
+      <datasheet>https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">C0603C180F5GACTU</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/c0603c180f5gactu/kemet-corporation?region=nac</field>
+        <field name="Description">SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120</field>
+        <field name="Height">0.87</field>
+        <field name="Manufacturer_Name">KEMET</field>
+        <field name="Manufacturer_Part_Number">C0603C180F5GACTU</field>
+        <field name="Mouser Part Number">80-C0603C180F5G</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/KEMET/C0603C180F5GACTU?qs=nRD1PKnFC2GPi%2FOLc6pETA%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys" part="C0603C180F5GACTU" description="SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120"/>
+      <property name="Description" value="SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120"/>
+      <property name="Height" value="0.87"/>
+      <property name="Manufacturer_Name" value="KEMET"/>
+      <property name="Manufacturer_Part_Number" value="C0603C180F5GACTU"/>
+      <property name="Mouser Part Number" value="80-C0603C180F5G"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/KEMET/C0603C180F5GACTU?qs=nRD1PKnFC2GPi%2FOLc6pETA%3D%3D"/>
+      <property name="Arrow Part Number" value="C0603C180F5GACTU"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/c0603c180f5gactu/kemet-corporation?region=nac"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <property name="ki_description" value="SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d45a1bd-6194-48ba-ad23-64ecf08abe01</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>4.7uF</value>
+      <footprint>SamacSys_Parts:CAPC1608X87N</footprint>
+      <datasheet>https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">C0603C180F5GACTU</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/c0603c180f5gactu/kemet-corporation?region=nac</field>
+        <field name="Description">SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120</field>
+        <field name="Height">0.87</field>
+        <field name="Manufacturer_Name">KEMET</field>
+        <field name="Manufacturer_Part_Number">C0603C180F5GACTU</field>
+        <field name="Mouser Part Number">80-C0603C180F5G</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/KEMET/C0603C180F5GACTU?qs=nRD1PKnFC2GPi%2FOLc6pETA%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys" part="C0603C180F5GACTU" description="SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120"/>
+      <property name="Description" value="SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120"/>
+      <property name="Height" value="0.87"/>
+      <property name="Manufacturer_Name" value="KEMET"/>
+      <property name="Manufacturer_Part_Number" value="C0603C180F5GACTU"/>
+      <property name="Mouser Part Number" value="80-C0603C180F5G"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/KEMET/C0603C180F5GACTU?qs=nRD1PKnFC2GPi%2FOLc6pETA%3D%3D"/>
+      <property name="Arrow Part Number" value="C0603C180F5GACTU"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/c0603c180f5gactu/kemet-corporation?region=nac"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <property name="ki_description" value="SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cedc7b93-0c10-4243-b697-1079e6f419eb</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100nF (0.1uF)</value>
+      <footprint>SamacSys_Parts:CAPC1608X87N</footprint>
+      <datasheet>https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">C0603C180F5GACTU</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/c0603c180f5gactu/kemet-corporation?region=nac</field>
+        <field name="Description">SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120</field>
+        <field name="Height">0.87</field>
+        <field name="Manufacturer_Name">KEMET</field>
+        <field name="Manufacturer_Part_Number">C0603C180F5GACTU</field>
+        <field name="Mouser Part Number">80-C0603C180F5G</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/KEMET/C0603C180F5GACTU?qs=nRD1PKnFC2GPi%2FOLc6pETA%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys" part="C0603C180F5GACTU" description="SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120"/>
+      <property name="Description" value="SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120"/>
+      <property name="Height" value="0.87"/>
+      <property name="Manufacturer_Name" value="KEMET"/>
+      <property name="Manufacturer_Part_Number" value="C0603C180F5GACTU"/>
+      <property name="Mouser Part Number" value="80-C0603C180F5G"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/KEMET/C0603C180F5GACTU?qs=nRD1PKnFC2GPi%2FOLc6pETA%3D%3D"/>
+      <property name="Arrow Part Number" value="C0603C180F5GACTU"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/c0603c180f5gactu/kemet-corporation?region=nac"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <property name="ki_description" value="SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a32bb0d1-0589-4692-a547-9acb0837e0fb</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100nF</value>
+      <footprint>SamacSys_Parts:CAPC1608X87N</footprint>
+      <datasheet>https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">C0603C180F5GACTU</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/c0603c180f5gactu/kemet-corporation?region=nac</field>
+        <field name="Description">SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120</field>
+        <field name="Height">0.87</field>
+        <field name="Manufacturer_Name">KEMET</field>
+        <field name="Manufacturer_Part_Number">C0603C180F5GACTU</field>
+        <field name="Mouser Part Number">80-C0603C180F5G</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/KEMET/C0603C180F5GACTU?qs=nRD1PKnFC2GPi%2FOLc6pETA%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys" part="C0603C180F5GACTU" description="SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120"/>
+      <property name="Description" value="SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120"/>
+      <property name="Height" value="0.87"/>
+      <property name="Manufacturer_Name" value="KEMET"/>
+      <property name="Manufacturer_Part_Number" value="C0603C180F5GACTU"/>
+      <property name="Mouser Part Number" value="80-C0603C180F5G"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/KEMET/C0603C180F5GACTU?qs=nRD1PKnFC2GPi%2FOLc6pETA%3D%3D"/>
+      <property name="Arrow Part Number" value="C0603C180F5GACTU"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/c0603c180f5gactu/kemet-corporation?region=nac"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <property name="ki_description" value="SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>af9eb129-4a6c-41de-9c8a-e88fb5386297</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>4.7uF</value>
+      <footprint>SamacSys_Parts:CAPC1608X87N</footprint>
+      <datasheet>https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">C0603C180F5GACTU</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/c0603c180f5gactu/kemet-corporation?region=nac</field>
+        <field name="Description">SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120</field>
+        <field name="Height">0.87</field>
+        <field name="Manufacturer_Name">KEMET</field>
+        <field name="Manufacturer_Part_Number">C0603C180F5GACTU</field>
+        <field name="Mouser Part Number">80-C0603C180F5G</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/KEMET/C0603C180F5GACTU?qs=nRD1PKnFC2GPi%2FOLc6pETA%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys" part="C0603C180F5GACTU" description="SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120"/>
+      <property name="Description" value="SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120"/>
+      <property name="Height" value="0.87"/>
+      <property name="Manufacturer_Name" value="KEMET"/>
+      <property name="Manufacturer_Part_Number" value="C0603C180F5GACTU"/>
+      <property name="Mouser Part Number" value="80-C0603C180F5G"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/KEMET/C0603C180F5GACTU?qs=nRD1PKnFC2GPi%2FOLc6pETA%3D%3D"/>
+      <property name="Arrow Part Number" value="C0603C180F5GACTU"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/c0603c180f5gactu/kemet-corporation?region=nac"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <property name="ki_description" value="SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>379f3b71-e890-4137-9783-5d1a0b87b6ea</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>XC6210B332MR</value>
+      <footprint>SamacSys_Parts:SOT95P280X130-5N</footprint>
+      <datasheet>https://www.torexsemi.com/file/xc6210/XC6210.pdf</datasheet>
+      <fields>
+        <field name="Description">TOREX - XC6210B332MR - IC, V REG CMOS LDO 3.3V, SMD, 6210</field>
+        <field name="Height">1.3</field>
+        <field name="Manufacturer_Name">Torex</field>
+        <field name="Manufacturer_Part_Number">XC6210B332MR</field>
+        <field name="Mouser Part Number">N/A</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Torex-Semiconductor/XC6210B332MR?qs=TiOZkKH1s2RnKp%252BMGbUSuQ%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys" part="XC6210B332MR" description="TOREX - XC6210B332MR - IC, V REG CMOS LDO 3.3V, SMD, 6210"/>
+      <property name="Description" value="TOREX - XC6210B332MR - IC, V REG CMOS LDO 3.3V, SMD, 6210"/>
+      <property name="Height" value="1.3"/>
+      <property name="Manufacturer_Name" value="Torex"/>
+      <property name="Manufacturer_Part_Number" value="XC6210B332MR"/>
+      <property name="Mouser Part Number" value="N/A"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Torex-Semiconductor/XC6210B332MR?qs=TiOZkKH1s2RnKp%252BMGbUSuQ%3D%3D"/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <property name="ki_description" value="TOREX - XC6210B332MR - IC, V REG CMOS LDO 3.3V, SMD, 6210"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>181b5a3a-9588-4aaa-9ed8-c41ff4b8c5b0</tstamps>
+    </comp>
+    <comp ref="IC2">
+      <value>MAX803SQ308D2T1G</value>
+      <footprint>SamacSys_Parts:SOT65P220X100-3N</footprint>
+      <datasheet>http://www.onsemi.com/pub/Collateral/MAX803-D.PDF</datasheet>
+      <fields>
+        <field name="Arrow Part Number">MAX803SQ308D2T1G</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/max803sq308d2t1g/on-semiconductor</field>
+        <field name="Height">1</field>
+        <field name="Manufacturer_Name">onsemi</field>
+        <field name="Manufacturer_Part_Number">MAX803SQ308D2T1G</field>
+        <field name="Mouser Part Number">863-MAX803SQ308D2T1G</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/onsemi/MAX803SQ308D2T1G?qs=mYaVSTb8pgULdtY94bR4ZA%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys" part="MAX803SQ308D2T1G" description=""/>
+      <property name="Description" value=""/>
+      <property name="Height" value="1"/>
+      <property name="Manufacturer_Name" value="onsemi"/>
+      <property name="Manufacturer_Part_Number" value="MAX803SQ308D2T1G"/>
+      <property name="Mouser Part Number" value="863-MAX803SQ308D2T1G"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/onsemi/MAX803SQ308D2T1G?qs=mYaVSTb8pgULdtY94bR4ZA%3D%3D"/>
+      <property name="Arrow Part Number" value="MAX803SQ308D2T1G"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/max803sq308d2t1g/on-semiconductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a310d0bd-a13c-44dc-a372-43049036274b</tstamps>
+    </comp>
+    <comp ref="IC3">
+      <value>PCA9952TW_Q900,118</value>
+      <footprint>SamacSys_Parts:SOP65P640X110-29N</footprint>
+      <datasheet>https://www.nxp.com/docs/en/data-sheet/PCA9952_PCA9955.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">PCA9952TW/Q900,118</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/pca9952twq900118/nxp-semiconductors?region=nac</field>
+        <field name="Description">LED Lighting Drivers 16-channel Fm+ I2C- bus 57 mA LED driver</field>
+        <field name="Height">1.1</field>
+        <field name="JLC">HTSSOP-28-EP</field>
+        <field name="LCSC">C2678557</field>
+        <field name="Manufacturer_Name">NXP</field>
+        <field name="Manufacturer_Part_Number">PCA9952TW/Q900,118</field>
+        <field name="Mouser Part Number">771-PCA9952TWQ900118</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/NXP-Semiconductors/PCA9952TW-Q900118?qs=fi7yB2oewZllQz9161F1iA%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys" part="PCA9952TW_Q900,118" description="LED Lighting Drivers 16-channel Fm+ I2C- bus 57 mA LED driver"/>
+      <property name="Description" value="LED Lighting Drivers 16-channel Fm+ I2C- bus 57 mA LED driver"/>
+      <property name="Height" value="1.1"/>
+      <property name="Manufacturer_Name" value="NXP"/>
+      <property name="Manufacturer_Part_Number" value="PCA9952TW/Q900,118"/>
+      <property name="Mouser Part Number" value="771-PCA9952TWQ900118"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/NXP-Semiconductors/PCA9952TW-Q900118?qs=fi7yB2oewZllQz9161F1iA%3D%3D"/>
+      <property name="Arrow Part Number" value="PCA9952TW/Q900,118"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/pca9952twq900118/nxp-semiconductors?region=nac"/>
+      <property name="LCSC" value="C2678557"/>
+      <property name="JLC" value="HTSSOP-28-EP"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <property name="ki_description" value="LED Lighting Drivers 16-channel Fm+ I2C- bus 57 mA LED driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2982cbb5-5048-4fd0-ae5e-1946d7d14240</tstamps>
+    </comp>
+    <comp ref="IC4">
+      <value>FT201XS-R</value>
+      <footprint>SamacSys_Parts:SOP64P599X175-16N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/FT201XS-R.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">FT201XS-R</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/ft201xs-r/ftdi-chip?region=nac</field>
+        <field name="Description">USB Interface IC USB to I2C IC SSOP-16</field>
+        <field name="Height">1.753</field>
+        <field name="JLC">SSOP-16-150mil</field>
+        <field name="LCSC">C2678062</field>
+        <field name="Manufacturer_Name">FTDI Chip</field>
+        <field name="Manufacturer_Part_Number">FT201XS-R</field>
+        <field name="Mouser Part Number">895-FT201XS-R</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/FTDI/FT201XS-R?qs=Gp1Yz1mis3XeQ5sUrBpcCQ%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys" part="FT201XS-R" description="USB Interface IC USB to I2C IC SSOP-16"/>
+      <property name="Description" value="USB Interface IC USB to I2C IC SSOP-16"/>
+      <property name="Height" value="1.753"/>
+      <property name="Manufacturer_Name" value="FTDI Chip"/>
+      <property name="Manufacturer_Part_Number" value="FT201XS-R"/>
+      <property name="Mouser Part Number" value="895-FT201XS-R"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/FTDI/FT201XS-R?qs=Gp1Yz1mis3XeQ5sUrBpcCQ%3D%3D"/>
+      <property name="Arrow Part Number" value="FT201XS-R"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/ft201xs-r/ftdi-chip?region=nac"/>
+      <property name="JLC" value="SSOP-16-150mil"/>
+      <property name="LCSC" value="C2678062"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <property name="ki_description" value="USB Interface IC USB to I2C IC SSOP-16"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5f4695c5-ceae-4d43-b3ab-f4171000c6de</tstamps>
+    </comp>
+    <comp ref="IC5">
+      <value>ATSAMD11D14A-SSNT</value>
+      <footprint>SamacSys_Parts:SOIC127P1032X265-20N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/ATSAMD11D14A-SSNT.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">ATSAMD11D14A-SSNT</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/atsamd11d14a-ssnt/microchip-technology?region=nac</field>
+        <field name="Description">ARM Microcontrollers - MCU Cortex-M0+, 16KB FLASH,4KB SRAM, USB - 20 SOIC,105C, GREEN,1.6-3.6V,48MHz,USB</field>
+        <field name="Height">2.65</field>
+        <field name="Manufacturer_Name">Microchip</field>
+        <field name="Manufacturer_Part_Number">ATSAMD11D14A-SSNT</field>
+        <field name="Mouser Part Number">556-ATSAMD11D14ASSNT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Microchip-Technology/ATSAMD11D14A-SSNT?qs=TUMPge1mmM7yyN11ztuLtw%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys" part="ATSAMD11D14A-SSNT" description="ARM Microcontrollers - MCU Cortex-M0+, 16KB FLASH,4KB SRAM, USB - 20 SOIC,105C, GREEN,1.6-3.6V,48MHz,USB"/>
+      <property name="Description" value="ARM Microcontrollers - MCU Cortex-M0+, 16KB FLASH,4KB SRAM, USB - 20 SOIC,105C, GREEN,1.6-3.6V,48MHz,USB"/>
+      <property name="Height" value="2.65"/>
+      <property name="Manufacturer_Name" value="Microchip"/>
+      <property name="Manufacturer_Part_Number" value="ATSAMD11D14A-SSNT"/>
+      <property name="Mouser Part Number" value="556-ATSAMD11D14ASSNT"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Microchip-Technology/ATSAMD11D14A-SSNT?qs=TUMPge1mmM7yyN11ztuLtw%3D%3D"/>
+      <property name="Arrow Part Number" value="ATSAMD11D14A-SSNT"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/atsamd11d14a-ssnt/microchip-technology?region=nac"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <property name="ki_description" value="ARM Microcontrollers - MCU Cortex-M0+, 16KB FLASH,4KB SRAM, USB - 20 SOIC,105C, GREEN,1.6-3.6V,48MHz,USB"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c10ca7e6-3bbb-4e4e-b4d2-3769a0173d3a</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>M20-9761042</value>
+      <footprint>SamacSys_Parts:HDRV20W64P254_2X10_2540X508X838P</footprint>
+      <datasheet>https://cdn.harwin.com/pdfs/M20-976.pdf</datasheet>
+      <fields>
+        <field name="Description">2.54mm (0.1") Pitch DIL Vertical Throughboard Pin Header, 5.8mm mating pin height, selective gold + tin, 10+10 contacts</field>
+        <field name="Height">8.38</field>
+        <field name="Manufacturer_Name">Harwin</field>
+        <field name="Manufacturer_Part_Number">M20-9761042</field>
+        <field name="Mouser Part Number">855-M20-9761042</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Harwin/M20-9761042?qs=vF78I%252BjhbY%2Fp44UYNx369Q%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys" part="M20-9761042" description="2.54mm (0.1&quot;) Pitch DIL Vertical Throughboard Pin Header, 5.8mm mating pin height, selective gold + tin, 10+10 contacts"/>
+      <property name="Description" value="2.54mm (0.1&quot;) Pitch DIL Vertical Throughboard Pin Header, 5.8mm mating pin height, selective gold + tin, 10+10 contacts"/>
+      <property name="Height" value="8.38"/>
+      <property name="Manufacturer_Name" value="Harwin"/>
+      <property name="Manufacturer_Part_Number" value="M20-9761042"/>
+      <property name="Mouser Part Number" value="855-M20-9761042"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Harwin/M20-9761042?qs=vF78I%252BjhbY%2Fp44UYNx369Q%3D%3D"/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <property name="ki_description" value="2.54mm (0.1&quot;) Pitch DIL Vertical Throughboard Pin Header, 5.8mm mating pin height, selective gold + tin, 10+10 contacts"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>547db140-5646-47fa-8213-ba7de5c3875e</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>47642-0001</value>
+      <footprint>SamacSys_Parts:476420001</footprint>
+      <datasheet>https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/476/47642/476420001_sd.pdf</datasheet>
+      <fields>
+        <field name="Description">Micro-USB B Receptacle, Mid-Mount, with Through Hole Solder Tab, Gold (Au) Flash Plating, without Mylar, Lead-Free</field>
+        <field name="Height">3.19</field>
+        <field name="Manufacturer_Name">Molex</field>
+        <field name="Manufacturer_Part_Number">47642-0001</field>
+        <field name="Mouser Part Number">538-47642-0001</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Molex/47642-0001?qs=1uvhzzitxfjHfdsiO16skg%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys" part="47642-0001" description="Micro-USB B Receptacle, Mid-Mount, with Through Hole Solder Tab, Gold (Au) Flash Plating, without Mylar, Lead-Free"/>
+      <property name="Description" value="Micro-USB B Receptacle, Mid-Mount, with Through Hole Solder Tab, Gold (Au) Flash Plating, without Mylar, Lead-Free"/>
+      <property name="Height" value="3.19"/>
+      <property name="Manufacturer_Name" value="Molex"/>
+      <property name="Manufacturer_Part_Number" value="47642-0001"/>
+      <property name="Mouser Part Number" value="538-47642-0001"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Molex/47642-0001?qs=1uvhzzitxfjHfdsiO16skg%3D%3D"/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <property name="ki_description" value="Micro-USB B Receptacle, Mid-Mount, with Through Hole Solder Tab, Gold (Au) Flash Plating, without Mylar, Lead-Free"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08381b0e-a3d4-475a-9892-b2adde13e613</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>M50-3500542</value>
+      <footprint>SamacSys_Parts:M503500542</footprint>
+      <datasheet>https://cdn.harwin.com/pdfs/M50-350.pdf</datasheet>
+      <fields>
+        <field name="Description">Header 2x5way DIL VERT Pin HARWIN M50-35 Series, 1.27mm Pitch 10 Way 2 Row Straight PCB Header, Solder Termination, 1A</field>
+        <field name="Height">4.15</field>
+        <field name="Manufacturer_Name">Harwin</field>
+        <field name="Manufacturer_Part_Number">M50-3500542</field>
+        <field name="Mouser Part Number">855-M50-3500542</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Harwin/M50-3500542?qs=9fQaSFfsqsyXI0P9tFOVoQ%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys" part="M50-3500542" description="Header 2x5way DIL VERT Pin HARWIN M50-35 Series, 1.27mm Pitch 10 Way 2 Row Straight PCB Header, Solder Termination, 1A"/>
+      <property name="Description" value="Header 2x5way DIL VERT Pin HARWIN M50-35 Series, 1.27mm Pitch 10 Way 2 Row Straight PCB Header, Solder Termination, 1A"/>
+      <property name="Height" value="4.15"/>
+      <property name="Manufacturer_Name" value="Harwin"/>
+      <property name="Manufacturer_Part_Number" value="M50-3500542"/>
+      <property name="Mouser Part Number" value="855-M50-3500542"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Harwin/M50-3500542?qs=9fQaSFfsqsyXI0P9tFOVoQ%3D%3D"/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <property name="ki_description" value="Header 2x5way DIL VERT Pin HARWIN M50-35 Series, 1.27mm Pitch 10 Way 2 Row Straight PCB Header, Solder Termination, 1A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3053c5d6-e85b-41a1-948c-6337578d1dde</tstamps>
+    </comp>
+    <comp ref="LED_MCU_1">
+      <value>HSMA-C120</value>
+      <footprint>SamacSys_Parts:LEDM166X110N</footprint>
+      <datasheet>https://docs.broadcom.com/docs/AV02-0975EN</datasheet>
+      <fields>
+        <field name="Description">1.9 V Amber LED 1608 (0603)  SMD, Broadcom HSMA-C120</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Avago Technologies</field>
+        <field name="Manufacturer_Part_Number">HSMA-C120</field>
+        <field name="Mouser Part Number">630-HSMA-C120</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMA-C120?qs=YDL0qNrpDT5lwntMCaK4Iw%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys" part="HSMA-C120" description="1.9 V Amber LED 1608 (0603)  SMD, Broadcom HSMA-C120"/>
+      <property name="Description" value="1.9 V Amber LED 1608 (0603)  SMD, Broadcom HSMA-C120"/>
+      <property name="Height" value="1.1"/>
+      <property name="Manufacturer_Name" value="Avago Technologies"/>
+      <property name="Manufacturer_Part_Number" value="HSMA-C120"/>
+      <property name="Mouser Part Number" value="630-HSMA-C120"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMA-C120?qs=YDL0qNrpDT5lwntMCaK4Iw%3D%3D"/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <property name="ki_description" value="1.9 V Amber LED 1608 (0603)  SMD, Broadcom HSMA-C120"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c2220ad1-8cfc-4bb4-9b56-d1a4286c4aab</tstamps>
+    </comp>
+    <comp ref="LED_MCU_2">
+      <value>HSMA-C120</value>
+      <footprint>SamacSys_Parts:LEDM166X110N</footprint>
+      <datasheet>https://docs.broadcom.com/docs/AV02-0975EN</datasheet>
+      <fields>
+        <field name="Description">1.9 V Amber LED 1608 (0603)  SMD, Broadcom HSMA-C120</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Avago Technologies</field>
+        <field name="Manufacturer_Part_Number">HSMA-C120</field>
+        <field name="Mouser Part Number">630-HSMA-C120</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMA-C120?qs=YDL0qNrpDT5lwntMCaK4Iw%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys" part="HSMA-C120" description="1.9 V Amber LED 1608 (0603)  SMD, Broadcom HSMA-C120"/>
+      <property name="Description" value="1.9 V Amber LED 1608 (0603)  SMD, Broadcom HSMA-C120"/>
+      <property name="Height" value="1.1"/>
+      <property name="Manufacturer_Name" value="Avago Technologies"/>
+      <property name="Manufacturer_Part_Number" value="HSMA-C120"/>
+      <property name="Mouser Part Number" value="630-HSMA-C120"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMA-C120?qs=YDL0qNrpDT5lwntMCaK4Iw%3D%3D"/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <property name="ki_description" value="1.9 V Amber LED 1608 (0603)  SMD, Broadcom HSMA-C120"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f864ea53-c3e0-4a06-80fa-0e7b6372bc12</tstamps>
+    </comp>
+    <comp ref="LED_POWER1">
+      <value>HSMA-C120</value>
+      <footprint>SamacSys_Parts:LEDM166X110N</footprint>
+      <datasheet>https://docs.broadcom.com/docs/AV02-0975EN</datasheet>
+      <fields>
+        <field name="Description">1.9 V Amber LED 1608 (0603)  SMD, Broadcom HSMA-C120</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Avago Technologies</field>
+        <field name="Manufacturer_Part_Number">HSMA-C120</field>
+        <field name="Mouser Part Number">630-HSMA-C120</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMA-C120?qs=YDL0qNrpDT5lwntMCaK4Iw%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys" part="HSMA-C120" description="1.9 V Amber LED 1608 (0603)  SMD, Broadcom HSMA-C120"/>
+      <property name="Description" value="1.9 V Amber LED 1608 (0603)  SMD, Broadcom HSMA-C120"/>
+      <property name="Height" value="1.1"/>
+      <property name="Manufacturer_Name" value="Avago Technologies"/>
+      <property name="Manufacturer_Part_Number" value="HSMA-C120"/>
+      <property name="Mouser Part Number" value="630-HSMA-C120"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMA-C120?qs=YDL0qNrpDT5lwntMCaK4Iw%3D%3D"/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <property name="ki_description" value="1.9 V Amber LED 1608 (0603)  SMD, Broadcom HSMA-C120"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>233c070a-fde1-4783-b04a-87b1921b7103</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>30R</value>
+      <footprint>SamacSys_Parts:ERA3AEB101V</footprint>
+      <datasheet>https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf</datasheet>
+      <fields>
+        <field name="Description">SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">ERA3AEB471V</field>
+      </fields>
+      <libsource lib="SamacSys" part="ERA3AEB471V" description="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <property name="Description" value="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <property name="Height" value="0.55"/>
+      <property name="Manufacturer_Name" value="Panasonic"/>
+      <property name="Manufacturer_Part_Number" value="ERA3AEB471V"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <property name="ki_description" value="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f07f542e-f3a3-4fe2-8a1c-970e8cb7ad7e</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>30R</value>
+      <footprint>SamacSys_Parts:ERA3AEB101V</footprint>
+      <datasheet>https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf</datasheet>
+      <fields>
+        <field name="Description">SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">ERA3AEB471V</field>
+      </fields>
+      <libsource lib="SamacSys" part="ERA3AEB471V" description="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <property name="Description" value="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <property name="Height" value="0.55"/>
+      <property name="Manufacturer_Name" value="Panasonic"/>
+      <property name="Manufacturer_Part_Number" value="ERA3AEB471V"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <property name="ki_description" value="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c1f4af9-04d7-48f6-87a2-0bd8c43c825f</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>30R</value>
+      <footprint>SamacSys_Parts:ERA3AEB101V</footprint>
+      <datasheet>https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf</datasheet>
+      <fields>
+        <field name="Description">SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">ERA3AEB471V</field>
+      </fields>
+      <libsource lib="SamacSys" part="ERA3AEB471V" description="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <property name="Description" value="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <property name="Height" value="0.55"/>
+      <property name="Manufacturer_Name" value="Panasonic"/>
+      <property name="Manufacturer_Part_Number" value="ERA3AEB471V"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <property name="ki_description" value="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db2469bc-85a6-4162-8a59-47854171c4b4</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>30R</value>
+      <footprint>SamacSys_Parts:ERA3AEB101V</footprint>
+      <datasheet>https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf</datasheet>
+      <fields>
+        <field name="Description">SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">ERA3AEB471V</field>
+      </fields>
+      <libsource lib="SamacSys" part="ERA3AEB471V" description="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <property name="Description" value="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <property name="Height" value="0.55"/>
+      <property name="Manufacturer_Name" value="Panasonic"/>
+      <property name="Manufacturer_Part_Number" value="ERA3AEB471V"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <property name="ki_description" value="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7084c38-dab2-4c63-824f-a0f8fdce65a2</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>30R</value>
+      <footprint>SamacSys_Parts:ERA3AEB101V</footprint>
+      <datasheet>https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf</datasheet>
+      <fields>
+        <field name="Description">SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">ERA3AEB471V</field>
+      </fields>
+      <libsource lib="SamacSys" part="ERA3AEB471V" description="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <property name="Description" value="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <property name="Height" value="0.55"/>
+      <property name="Manufacturer_Name" value="Panasonic"/>
+      <property name="Manufacturer_Part_Number" value="ERA3AEB471V"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <property name="ki_description" value="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c2998c1d-1430-4cac-88df-7b4c1707eabc</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>30R</value>
+      <footprint>SamacSys_Parts:ERA3AEB101V</footprint>
+      <datasheet>https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf</datasheet>
+      <fields>
+        <field name="Description">SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">ERA3AEB471V</field>
+      </fields>
+      <libsource lib="SamacSys" part="ERA3AEB471V" description="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <property name="Description" value="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <property name="Height" value="0.55"/>
+      <property name="Manufacturer_Name" value="Panasonic"/>
+      <property name="Manufacturer_Part_Number" value="ERA3AEB471V"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <property name="ki_description" value="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>72cb486a-9e77-4a0b-a2bd-7196ed5d8a48</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>30R</value>
+      <footprint>SamacSys_Parts:ERA3AEB101V</footprint>
+      <datasheet>https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf</datasheet>
+      <fields>
+        <field name="Description">SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">ERA3AEB471V</field>
+      </fields>
+      <libsource lib="SamacSys" part="ERA3AEB471V" description="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <property name="Description" value="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <property name="Height" value="0.55"/>
+      <property name="Manufacturer_Name" value="Panasonic"/>
+      <property name="Manufacturer_Part_Number" value="ERA3AEB471V"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <property name="ki_description" value="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0481ccda-33c2-49ac-addf-102264797309</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>2K8</value>
+      <footprint>SamacSys_Parts:ERA3AEB101V</footprint>
+      <datasheet>https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf</datasheet>
+      <fields>
+        <field name="Description">SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">ERA3AEB471V</field>
+      </fields>
+      <libsource lib="SamacSys" part="ERA3AEB471V" description="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <property name="Description" value="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <property name="Height" value="0.55"/>
+      <property name="Manufacturer_Name" value="Panasonic"/>
+      <property name="Manufacturer_Part_Number" value="ERA3AEB471V"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <property name="ki_description" value="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ba2b3139-fce4-42d1-b3ea-529d1eb98b6c</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>27R</value>
+      <footprint>SamacSys_Parts:ERA3AEB101V</footprint>
+      <datasheet>https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf</datasheet>
+      <fields>
+        <field name="Description">SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">ERA3AEB471V</field>
+      </fields>
+      <libsource lib="SamacSys" part="ERA3AEB471V" description="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <property name="Description" value="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <property name="Height" value="0.55"/>
+      <property name="Manufacturer_Name" value="Panasonic"/>
+      <property name="Manufacturer_Part_Number" value="ERA3AEB471V"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <property name="ki_description" value="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>386cfd62-9bfa-4194-ac13-7b9d71eab240</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>27R</value>
+      <footprint>SamacSys_Parts:ERA3AEB101V</footprint>
+      <datasheet>https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf</datasheet>
+      <fields>
+        <field name="Description">SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">ERA3AEB471V</field>
+      </fields>
+      <libsource lib="SamacSys" part="ERA3AEB471V" description="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <property name="Description" value="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <property name="Height" value="0.55"/>
+      <property name="Manufacturer_Name" value="Panasonic"/>
+      <property name="Manufacturer_Part_Number" value="ERA3AEB471V"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <property name="ki_description" value="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca39b951-70ee-4ec2-99db-82374a5a39c5</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>100K</value>
+      <footprint>SamacSys_Parts:ERA3AEB101V</footprint>
+      <datasheet>https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf</datasheet>
+      <fields>
+        <field name="Description">SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">ERA3AEB471V</field>
+      </fields>
+      <libsource lib="SamacSys" part="ERA3AEB471V" description="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <property name="Description" value="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <property name="Height" value="0.55"/>
+      <property name="Manufacturer_Name" value="Panasonic"/>
+      <property name="Manufacturer_Part_Number" value="ERA3AEB471V"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <property name="ki_description" value="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7eae8ba3-3b8d-4814-a3e9-ea36ce0fe795</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>4K7</value>
+      <footprint>SamacSys_Parts:ERA3AEB101V</footprint>
+      <datasheet>https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf</datasheet>
+      <fields>
+        <field name="Description">SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">ERA3AEB471V</field>
+      </fields>
+      <libsource lib="SamacSys" part="ERA3AEB471V" description="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <property name="Description" value="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <property name="Height" value="0.55"/>
+      <property name="Manufacturer_Name" value="Panasonic"/>
+      <property name="Manufacturer_Part_Number" value="ERA3AEB471V"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <property name="ki_description" value="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd78484c-09a9-45fd-a689-c47af3fdcea1</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>4K7</value>
+      <footprint>SamacSys_Parts:ERA3AEB101V</footprint>
+      <datasheet>https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf</datasheet>
+      <fields>
+        <field name="Description">SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">ERA3AEB471V</field>
+      </fields>
+      <libsource lib="SamacSys" part="ERA3AEB471V" description="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <property name="Description" value="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <property name="Height" value="0.55"/>
+      <property name="Manufacturer_Name" value="Panasonic"/>
+      <property name="Manufacturer_Part_Number" value="ERA3AEB471V"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <property name="ki_description" value="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fc4b7e58-d8f6-4cfc-b4d5-f767266382ab</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>4K7</value>
+      <footprint>SamacSys_Parts:ERA3AEB101V</footprint>
+      <datasheet>https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf</datasheet>
+      <fields>
+        <field name="Description">SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">ERA3AEB471V</field>
+      </fields>
+      <libsource lib="SamacSys" part="ERA3AEB471V" description="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <property name="Description" value="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <property name="Height" value="0.55"/>
+      <property name="Manufacturer_Name" value="Panasonic"/>
+      <property name="Manufacturer_Part_Number" value="ERA3AEB471V"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <property name="ki_description" value="SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>45a4acc5-245e-4a9d-a325-cd07b05a389a</tstamps>
+    </comp>
+    <comp ref="S1">
+      <value>~</value>
+      <footprint>BuranCustom:PB26-13M RGB LED</footprint>
+      <libsource lib="BuranComponents" part="PB26-13M_RGB" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>15fb8f0f-cc7e-4ffc-82a7-f557ed62c183</tstamps>
+    </comp>
+    <comp ref="S2">
+      <value>~</value>
+      <footprint>BuranCustom:PB26-13M RGB LED</footprint>
+      <libsource lib="BuranComponents" part="PB26-13M_RGB" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c9426f44-f86b-40ad-a34c-a94d487f0da9</tstamps>
+    </comp>
+    <comp ref="S3">
+      <value>~</value>
+      <footprint>BuranCustom:PB26-13M RGB LED</footprint>
+      <libsource lib="BuranComponents" part="PB26-13M_RGB" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da585ccb-b9eb-41fb-a899-cab29df1f6f4</tstamps>
+    </comp>
+    <comp ref="S4">
+      <value>~</value>
+      <footprint>BuranCustom:PB26-13M RGB LED</footprint>
+      <libsource lib="BuranComponents" part="PB26-13M_RGB" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b773ef23-c5ca-4023-8169-98612edd33e8</tstamps>
+    </comp>
+    <comp ref="S5">
+      <value>ESE20C321</value>
+      <footprint>SamacSys_Parts:ESE20C321</footprint>
+      <datasheet>https://industrial.panasonic.com/cdbs/www-data/pdf/ATU0000/ATU0000C5.pdf</datasheet>
+      <fields>
+        <field name="Description">Pushbutton Switches Push Switch Mom SPST Leaded 8.9m</field>
+        <field name="Height">12.5</field>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">ESE20C321</field>
+      </fields>
+      <libsource lib="SamacSys" part="ESE20C321" description="Pushbutton Switches Push Switch Mom SPST Leaded 8.9m"/>
+      <property name="Description" value="Pushbutton Switches Push Switch Mom SPST Leaded 8.9m"/>
+      <property name="Height" value="12.5"/>
+      <property name="Manufacturer_Name" value="Panasonic"/>
+      <property name="Manufacturer_Part_Number" value="ESE20C321"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="buran.kicad_sch"/>
+      <property name="ki_description" value="Pushbutton Switches Push Switch Mom SPST Leaded 8.9m"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc54c07d-3591-4ef5-aa40-b27ebadc9b0d</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="BuranComponents" part="PB26-13M_RGB">
+      <fields>
+        <field name="Reference">S</field>
+      </fields>
+      <pins>
+        <pin num="1" name="COM" type="passive"/>
+        <pin num="2" name="NO" type="passive"/>
+        <pin num="3" name="NC" type="passive"/>
+        <pin num="4" name="L2" type="passive"/>
+        <pin num="5" name="L1" type="passive"/>
+        <pin num="6" name="L4" type="passive"/>
+        <pin num="7" name="L3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys" part="47642-0001">
+      <description>Micro-USB B Receptacle, Mid-Mount, with Through Hole Solder Tab, Gold (Au) Flash Plating, without Mylar, Lead-Free</description>
+      <docs>https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/476/47642/476420001_sd.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">47642-0001</field>
+        <field name="Footprint">476420001</field>
+        <field name="Datasheet">https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/476/47642/476420001_sd.pdf</field>
+        <field name="Description">Micro-USB B Receptacle, Mid-Mount, with Through Hole Solder Tab, Gold (Au) Flash Plating, without Mylar, Lead-Free</field>
+        <field name="Height">3.19</field>
+        <field name="Manufacturer_Name">Molex</field>
+        <field name="Manufacturer_Part_Number">47642-0001</field>
+        <field name="Mouser Part Number">538-47642-0001</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Molex/47642-0001?qs=1uvhzzitxfjHfdsiO16skg%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="MH1" name="MH1" type="passive"/>
+        <pin num="MH2" name="MH2" type="passive"/>
+        <pin num="MH3" name="MH3" type="passive"/>
+        <pin num="MH4" name="MH4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys" part="ATSAMD11D14A-SSNT">
+      <description>ARM Microcontrollers - MCU Cortex-M0+, 16KB FLASH,4KB SRAM, USB - 20 SOIC,105C, GREEN,1.6-3.6V,48MHz,USB</description>
+      <docs>https://componentsearchengine.com/Datasheets/1/ATSAMD11D14A-SSNT.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">ATSAMD11D14A-SSNT</field>
+        <field name="Footprint">SOIC127P1032X265-20N</field>
+        <field name="Datasheet">https://componentsearchengine.com/Datasheets/1/ATSAMD11D14A-SSNT.pdf</field>
+        <field name="Description">ARM Microcontrollers - MCU Cortex-M0+, 16KB FLASH,4KB SRAM, USB - 20 SOIC,105C, GREEN,1.6-3.6V,48MHz,USB</field>
+        <field name="Height">2.65</field>
+        <field name="Manufacturer_Name">Microchip</field>
+        <field name="Manufacturer_Part_Number">ATSAMD11D14A-SSNT</field>
+        <field name="Mouser Part Number">556-ATSAMD11D14ASSNT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Microchip-Technology/ATSAMD11D14A-SSNT?qs=TUMPge1mmM7yyN11ztuLtw%3D%3D</field>
+        <field name="Arrow Part Number">ATSAMD11D14A-SSNT</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/atsamd11d14a-ssnt/microchip-technology?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PA05" type="passive"/>
+        <pin num="2" name="PA06" type="passive"/>
+        <pin num="3" name="PA07" type="passive"/>
+        <pin num="4" name="PA08" type="passive"/>
+        <pin num="5" name="PA09" type="passive"/>
+        <pin num="6" name="PA14" type="passive"/>
+        <pin num="7" name="PA15" type="passive"/>
+        <pin num="8" name="PA16" type="passive"/>
+        <pin num="9" name="PA22" type="passive"/>
+        <pin num="10" name="PA23" type="passive"/>
+        <pin num="11" name="PA28/~{RST}" type="passive"/>
+        <pin num="12" name="PA30" type="passive"/>
+        <pin num="13" name="PA31" type="passive"/>
+        <pin num="14" name="PA24" type="passive"/>
+        <pin num="15" name="PA25" type="passive"/>
+        <pin num="16" name="GND" type="passive"/>
+        <pin num="17" name="VDDIO/IN/ANA" type="passive"/>
+        <pin num="18" name="PA02" type="passive"/>
+        <pin num="19" name="PA03" type="passive"/>
+        <pin num="20" name="PA04" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys" part="C0603C180F5GACTU">
+      <description>SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120</description>
+      <docs>https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C0603C180F5GACTU</field>
+        <field name="Footprint">CAPC1608X87N</field>
+        <field name="Datasheet">https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf</field>
+        <field name="Description">SMD Comm C0G, Ceramic, 18 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120</field>
+        <field name="Height">0.87</field>
+        <field name="Manufacturer_Name">KEMET</field>
+        <field name="Manufacturer_Part_Number">C0603C180F5GACTU</field>
+        <field name="Mouser Part Number">80-C0603C180F5G</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/KEMET/C0603C180F5GACTU?qs=nRD1PKnFC2GPi%2FOLc6pETA%3D%3D</field>
+        <field name="Arrow Part Number">C0603C180F5GACTU</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/c0603c180f5gactu/kemet-corporation?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys" part="ERA3AEB471V">
+      <description>SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C</description>
+      <docs>https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf</docs>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">ERA3AEB471V</field>
+        <field name="Footprint">ERA3AEB101V</field>
+        <field name="Datasheet">https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf</field>
+        <field name="Description">SMD Thin film resistor 0603 470R (Reel) Panasonic ERA Series Thin Film Surface Mount Fixed Resistor 0603 Case 470 +/-0.1% 0.1W +/-25ppm/C</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">ERA3AEB471V</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys" part="ESE20C321">
+      <description>Pushbutton Switches Push Switch Mom SPST Leaded 8.9m</description>
+      <docs>https://industrial.panasonic.com/cdbs/www-data/pdf/ATU0000/ATU0000C5.pdf</docs>
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">ESE20C321</field>
+        <field name="Footprint">ESE20C321</field>
+        <field name="Datasheet">https://industrial.panasonic.com/cdbs/www-data/pdf/ATU0000/ATU0000C5.pdf</field>
+        <field name="Description">Pushbutton Switches Push Switch Mom SPST Leaded 8.9m</field>
+        <field name="Height">12.5</field>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">ESE20C321</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="A1" type="passive"/>
+        <pin num="B1" name="B1" type="passive"/>
+        <pin num="C1" name="C1" type="passive"/>
+        <pin num="D1" name="D1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys" part="FT201XS-R">
+      <description>USB Interface IC USB to I2C IC SSOP-16</description>
+      <docs>https://componentsearchengine.com/Datasheets/1/FT201XS-R.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">FT201XS-R</field>
+        <field name="Footprint">SOP64P599X175-16N</field>
+        <field name="Datasheet">https://componentsearchengine.com/Datasheets/1/FT201XS-R.pdf</field>
+        <field name="Description">USB Interface IC USB to I2C IC SSOP-16</field>
+        <field name="Height">1.753</field>
+        <field name="Manufacturer_Name">FTDI Chip</field>
+        <field name="Manufacturer_Part_Number">FT201XS-R</field>
+        <field name="Mouser Part Number">895-FT201XS-R</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/FTDI/FT201XS-R?qs=Gp1Yz1mis3XeQ5sUrBpcCQ%3D%3D</field>
+        <field name="Arrow Part Number">FT201XS-R</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/ft201xs-r/ftdi-chip?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CBUS5" type="passive"/>
+        <pin num="2" name="SCL" type="passive"/>
+        <pin num="3" name="VCCIO" type="passive"/>
+        <pin num="4" name="SDA" type="passive"/>
+        <pin num="5" name="GND_1" type="passive"/>
+        <pin num="6" name="CBUS4" type="passive"/>
+        <pin num="7" name="CBUS2" type="passive"/>
+        <pin num="8" name="USBDP" type="passive"/>
+        <pin num="9" name="USBDM" type="passive"/>
+        <pin num="10" name="3V3OUT" type="passive"/>
+        <pin num="11" name="RESET#" type="passive"/>
+        <pin num="12" name="VCC" type="passive"/>
+        <pin num="13" name="GND_2" type="passive"/>
+        <pin num="14" name="CBUS1" type="passive"/>
+        <pin num="15" name="CBUS0" type="passive"/>
+        <pin num="16" name="CBUS3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys" part="HSMA-C120">
+      <description>1.9 V Amber LED 1608 (0603)  SMD, Broadcom HSMA-C120</description>
+      <docs>https://docs.broadcom.com/docs/AV02-0975EN</docs>
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">HSMA-C120</field>
+        <field name="Footprint">LEDM166X110N</field>
+        <field name="Datasheet">https://docs.broadcom.com/docs/AV02-0975EN</field>
+        <field name="Description">1.9 V Amber LED 1608 (0603)  SMD, Broadcom HSMA-C120</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Avago Technologies</field>
+        <field name="Manufacturer_Part_Number">HSMA-C120</field>
+        <field name="Mouser Part Number">630-HSMA-C120</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMA-C120?qs=YDL0qNrpDT5lwntMCaK4Iw%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys" part="M20-9761042">
+      <description>2.54mm (0.1") Pitch DIL Vertical Throughboard Pin Header, 5.8mm mating pin height, selective gold + tin, 10+10 contacts</description>
+      <docs>https://cdn.harwin.com/pdfs/M20-976.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">M20-9761042</field>
+        <field name="Footprint">HDRV20W64P254_2X10_2540X508X838P</field>
+        <field name="Datasheet">https://cdn.harwin.com/pdfs/M20-976.pdf</field>
+        <field name="Description">2.54mm (0.1") Pitch DIL Vertical Throughboard Pin Header, 5.8mm mating pin height, selective gold + tin, 10+10 contacts</field>
+        <field name="Height">8.38</field>
+        <field name="Manufacturer_Name">Harwin</field>
+        <field name="Manufacturer_Part_Number">M20-9761042</field>
+        <field name="Mouser Part Number">855-M20-9761042</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Harwin/M20-9761042?qs=vF78I%252BjhbY%2Fp44UYNx369Q%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+        <pin num="9" name="9" type="passive"/>
+        <pin num="10" name="10" type="passive"/>
+        <pin num="11" name="11" type="passive"/>
+        <pin num="12" name="12" type="passive"/>
+        <pin num="13" name="13" type="passive"/>
+        <pin num="14" name="14" type="passive"/>
+        <pin num="15" name="15" type="passive"/>
+        <pin num="16" name="16" type="passive"/>
+        <pin num="17" name="17" type="passive"/>
+        <pin num="18" name="18" type="passive"/>
+        <pin num="19" name="19" type="passive"/>
+        <pin num="20" name="20" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys" part="M50-3500542">
+      <description>Header 2x5way DIL VERT Pin HARWIN M50-35 Series, 1.27mm Pitch 10 Way 2 Row Straight PCB Header, Solder Termination, 1A</description>
+      <docs>https://cdn.harwin.com/pdfs/M50-350.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">M50-3500542</field>
+        <field name="Footprint">M503500542</field>
+        <field name="Datasheet">https://cdn.harwin.com/pdfs/M50-350.pdf</field>
+        <field name="Description">Header 2x5way DIL VERT Pin HARWIN M50-35 Series, 1.27mm Pitch 10 Way 2 Row Straight PCB Header, Solder Termination, 1A</field>
+        <field name="Height">4.15</field>
+        <field name="Manufacturer_Name">Harwin</field>
+        <field name="Manufacturer_Part_Number">M50-3500542</field>
+        <field name="Mouser Part Number">855-M50-3500542</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Harwin/M50-3500542?qs=9fQaSFfsqsyXI0P9tFOVoQ%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+        <pin num="9" name="9" type="passive"/>
+        <pin num="10" name="10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys" part="MAX803SQ308D2T1G">
+      <docs>http://www.onsemi.com/pub/Collateral/MAX803-D.PDF</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">MAX803SQ308D2T1G</field>
+        <field name="Footprint">SOT65P220X100-3N</field>
+        <field name="Datasheet">http://www.onsemi.com/pub/Collateral/MAX803-D.PDF</field>
+        <field name="Height">1</field>
+        <field name="Manufacturer_Name">onsemi</field>
+        <field name="Manufacturer_Part_Number">MAX803SQ308D2T1G</field>
+        <field name="Mouser Part Number">863-MAX803SQ308D2T1G</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/onsemi/MAX803SQ308D2T1G?qs=mYaVSTb8pgULdtY94bR4ZA%3D%3D</field>
+        <field name="Arrow Part Number">MAX803SQ308D2T1G</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/max803sq308d2t1g/on-semiconductor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="~{RESET}" type="passive"/>
+        <pin num="3" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys" part="PCA9952TW_Q900,118">
+      <description>LED Lighting Drivers 16-channel Fm+ I2C- bus 57 mA LED driver</description>
+      <docs>https://www.nxp.com/docs/en/data-sheet/PCA9952_PCA9955.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">PCA9952TW_Q900,118</field>
+        <field name="Footprint">SOP65P640X110-29N</field>
+        <field name="Datasheet">https://www.nxp.com/docs/en/data-sheet/PCA9952_PCA9955.pdf</field>
+        <field name="Description">LED Lighting Drivers 16-channel Fm+ I2C- bus 57 mA LED driver</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">NXP</field>
+        <field name="Manufacturer_Part_Number">PCA9952TW/Q900,118</field>
+        <field name="Mouser Part Number">771-PCA9952TWQ900118</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/NXP-Semiconductors/PCA9952TW-Q900118?qs=fi7yB2oewZllQz9161F1iA%3D%3D</field>
+        <field name="Arrow Part Number">PCA9952TW/Q900,118</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/pca9952twq900118/nxp-semiconductors?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="REXT" type="passive"/>
+        <pin num="2" name="A0" type="passive"/>
+        <pin num="3" name="A1" type="passive"/>
+        <pin num="4" name="A2" type="passive"/>
+        <pin num="5" name="~{OE}" type="passive"/>
+        <pin num="6" name="LED0" type="passive"/>
+        <pin num="7" name="LED1" type="passive"/>
+        <pin num="8" name="LED2" type="passive"/>
+        <pin num="9" name="LED3" type="passive"/>
+        <pin num="10" name="VSS_1" type="passive"/>
+        <pin num="11" name="LED4" type="passive"/>
+        <pin num="12" name="LED5" type="passive"/>
+        <pin num="13" name="LED6" type="passive"/>
+        <pin num="14" name="LED7" type="passive"/>
+        <pin num="15" name="LED8" type="passive"/>
+        <pin num="16" name="LED9" type="passive"/>
+        <pin num="17" name="LED10" type="passive"/>
+        <pin num="18" name="LED11" type="passive"/>
+        <pin num="19" name="VSS_2" type="passive"/>
+        <pin num="20" name="LED12" type="passive"/>
+        <pin num="21" name="LED13" type="passive"/>
+        <pin num="22" name="LED14" type="passive"/>
+        <pin num="23" name="LED15" type="passive"/>
+        <pin num="24" name="VSS_3" type="passive"/>
+        <pin num="25" name="~{RESET}" type="passive"/>
+        <pin num="26" name="SCL" type="passive"/>
+        <pin num="27" name="SDA" type="passive"/>
+        <pin num="28" name="VDD" type="passive"/>
+        <pin num="29" name="VSS_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys" part="XC6210B332MR">
+      <description>TOREX - XC6210B332MR - IC, V REG CMOS LDO 3.3V, SMD, 6210</description>
+      <docs>https://www.torexsemi.com/file/xc6210/XC6210.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">XC6210B332MR</field>
+        <field name="Footprint">SOT95P280X130-5N</field>
+        <field name="Datasheet">https://www.torexsemi.com/file/xc6210/XC6210.pdf</field>
+        <field name="Description">TOREX - XC6210B332MR - IC, V REG CMOS LDO 3.3V, SMD, 6210</field>
+        <field name="Height">1.3</field>
+        <field name="Manufacturer_Name">Torex</field>
+        <field name="Manufacturer_Part_Number">XC6210B332MR</field>
+        <field name="Mouser Part Number">N/A</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Torex-Semiconductor/XC6210B332MR?qs=TiOZkKH1s2RnKp%252BMGbUSuQ%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VIN" type="passive"/>
+        <pin num="2" name="VSS" type="passive"/>
+        <pin num="3" name="CE" type="passive"/>
+        <pin num="4" name="NC" type="no_connect"/>
+        <pin num="5" name="VOUT" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="BuranComponents">
+      <uri>D:/Hardware Projects/Project Buran/project_buran/kicad/BuranComponents.kicad_sym</uri>
+    </library>
+    <library logical="SamacSys">
+      <uri>C:/Users/Anton/Documents/SamacSys_PCB_Library/KiCad/SamacSys_Parts.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/CBUS0">
+      <node ref="IC4" pin="15" pinfunction="CBUS0" pintype="passive"/>
+      <node ref="IC5" pin="3" pinfunction="PA07" pintype="passive"/>
+      <node ref="J1" pin="11" pinfunction="11" pintype="passive"/>
+    </net>
+    <net code="2" name="/CBUS1">
+      <node ref="IC4" pin="14" pinfunction="CBUS1" pintype="passive"/>
+      <node ref="IC5" pin="4" pinfunction="PA08" pintype="passive"/>
+      <node ref="J1" pin="13" pinfunction="13" pintype="passive"/>
+    </net>
+    <net code="3" name="/CBUS2">
+      <node ref="IC4" pin="7" pinfunction="CBUS2" pintype="passive"/>
+      <node ref="IC5" pin="5" pinfunction="PA09" pintype="passive"/>
+      <node ref="J1" pin="15" pinfunction="15" pintype="passive"/>
+    </net>
+    <net code="4" name="/CBUS3">
+      <node ref="IC4" pin="16" pinfunction="CBUS3" pintype="passive"/>
+      <node ref="IC5" pin="8" pinfunction="PA16" pintype="passive"/>
+      <node ref="J1" pin="17" pinfunction="17" pintype="passive"/>
+    </net>
+    <net code="5" name="/CBUS4">
+      <node ref="IC4" pin="6" pinfunction="CBUS4" pintype="passive"/>
+      <node ref="IC5" pin="9" pinfunction="PA22" pintype="passive"/>
+      <node ref="J1" pin="19" pinfunction="19" pintype="passive"/>
+    </net>
+    <net code="6" name="/CBUS5">
+      <node ref="IC4" pin="1" pinfunction="CBUS5" pintype="passive"/>
+      <node ref="IC5" pin="10" pinfunction="PA23" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="7" name="/D+">
+      <node ref="IC4" pin="8" pinfunction="USBDP" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+    </net>
+    <net code="8" name="/D-">
+      <node ref="IC4" pin="9" pinfunction="USBDM" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="9" name="/D0+">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="10" name="/D0-">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="11" name="/IC4_LED_0">
+      <node ref="IC3" pin="6" pinfunction="LED0" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="12" name="/IC4_LED_1">
+      <node ref="IC3" pin="7" pinfunction="LED1" pintype="passive"/>
+      <node ref="S1" pin="6" pinfunction="L4" pintype="passive"/>
+    </net>
+    <net code="13" name="/IC4_LED_2">
+      <node ref="IC3" pin="8" pinfunction="LED2" pintype="passive"/>
+      <node ref="S1" pin="7" pinfunction="L3" pintype="passive"/>
+    </net>
+    <net code="14" name="/IC4_LED_3">
+      <node ref="IC3" pin="9" pinfunction="LED3" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="15" name="/IC4_LED_4">
+      <node ref="IC3" pin="11" pinfunction="LED4" pintype="passive"/>
+      <node ref="S2" pin="6" pinfunction="L4" pintype="passive"/>
+    </net>
+    <net code="16" name="/IC4_LED_5">
+      <node ref="IC3" pin="12" pinfunction="LED5" pintype="passive"/>
+      <node ref="S2" pin="7" pinfunction="L3" pintype="passive"/>
+    </net>
+    <net code="17" name="/IC4_LED_6">
+      <node ref="IC3" pin="13" pinfunction="LED6" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="18" name="/IC4_LED_7">
+      <node ref="IC3" pin="14" pinfunction="LED7" pintype="passive"/>
+      <node ref="S3" pin="6" pinfunction="L4" pintype="passive"/>
+    </net>
+    <net code="19" name="/IC4_LED_8">
+      <node ref="IC3" pin="15" pinfunction="LED8" pintype="passive"/>
+      <node ref="S3" pin="7" pinfunction="L3" pintype="passive"/>
+    </net>
+    <net code="20" name="/IC4_LED_9">
+      <node ref="IC3" pin="16" pinfunction="LED9" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="21" name="/IC4_LED_10">
+      <node ref="IC3" pin="17" pinfunction="LED10" pintype="passive"/>
+      <node ref="S4" pin="6" pinfunction="L4" pintype="passive"/>
+    </net>
+    <net code="22" name="/IC4_LED_11">
+      <node ref="IC3" pin="18" pinfunction="LED11" pintype="passive"/>
+      <node ref="S4" pin="7" pinfunction="L3" pintype="passive"/>
+    </net>
+    <net code="23" name="/MCU_LED_1">
+      <node ref="IC5" pin="1" pinfunction="PA05" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="24" name="/MCU_LED_2">
+      <node ref="IC5" pin="2" pinfunction="PA06" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="25" name="/MCU_N_OE">
+      <node ref="IC3" pin="5" pinfunction="~{OE}" pintype="passive"/>
+      <node ref="IC5" pin="20" pinfunction="PA04" pintype="passive"/>
+    </net>
+    <net code="26" name="/MCU_S1">
+      <node ref="IC5" pin="14" pinfunction="PA24" pintype="passive"/>
+      <node ref="S1" pin="1" pinfunction="COM" pintype="passive"/>
+    </net>
+    <net code="27" name="/MCU_S2">
+      <node ref="IC5" pin="15" pinfunction="PA25" pintype="passive"/>
+      <node ref="S2" pin="1" pinfunction="COM" pintype="passive"/>
+    </net>
+    <net code="28" name="/MCU_S3">
+      <node ref="IC5" pin="18" pinfunction="PA02" pintype="passive"/>
+      <node ref="S3" pin="1" pinfunction="COM" pintype="passive"/>
+    </net>
+    <net code="29" name="/MCU_S4">
+      <node ref="IC5" pin="19" pinfunction="PA03" pintype="passive"/>
+      <node ref="S4" pin="1" pinfunction="COM" pintype="passive"/>
+    </net>
+    <net code="30" name="/N_RESET">
+      <node ref="IC2" pin="2" pinfunction="~{RESET}" pintype="passive"/>
+      <node ref="IC3" pin="25" pinfunction="~{RESET}" pintype="passive"/>
+      <node ref="IC4" pin="11" pinfunction="RESET#" pintype="passive"/>
+      <node ref="IC5" pin="11" pinfunction="PA28/~{RST}" pintype="passive"/>
+      <node ref="J1" pin="9" pinfunction="9" pintype="passive"/>
+      <node ref="J3" pin="10" pinfunction="10" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="S5" pin="A1" pinfunction="A1" pintype="passive"/>
+      <node ref="S5" pin="C1" pinfunction="C1" pintype="passive"/>
+    </net>
+    <net code="31" name="/SCL">
+      <node ref="IC3" pin="26" pinfunction="SCL" pintype="passive"/>
+      <node ref="IC4" pin="2" pinfunction="SCL" pintype="passive"/>
+      <node ref="IC5" pin="7" pinfunction="PA15" pintype="passive"/>
+      <node ref="J1" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+    </net>
+    <net code="32" name="/SDA">
+      <node ref="IC3" pin="27" pinfunction="SDA" pintype="passive"/>
+      <node ref="IC4" pin="4" pinfunction="SDA" pintype="passive"/>
+      <node ref="IC5" pin="6" pinfunction="PA14" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="33" name="/SWCLK">
+      <node ref="IC5" pin="12" pinfunction="PA30" pintype="passive"/>
+      <node ref="J3" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="34" name="/SWDIO">
+      <node ref="IC5" pin="13" pinfunction="PA31" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="35" name="/VCCIO">
+      <node ref="IC4" pin="10" pinfunction="3V3OUT" pintype="passive"/>
+      <node ref="IC4" pin="3" pinfunction="VCCIO" pintype="passive"/>
+    </net>
+    <net code="36" name="/V_UNREG">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="1" pinfunction="VIN" pintype="passive"/>
+      <node ref="IC1" pin="3" pinfunction="CE" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="37" name="GND">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="2" pinfunction="VSS" pintype="passive"/>
+      <node ref="IC2" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="IC3" pin="10" pinfunction="VSS_1" pintype="passive"/>
+      <node ref="IC3" pin="19" pinfunction="VSS_2" pintype="passive"/>
+      <node ref="IC3" pin="2" pinfunction="A0" pintype="passive"/>
+      <node ref="IC3" pin="24" pinfunction="VSS_3" pintype="passive"/>
+      <node ref="IC3" pin="29" pinfunction="VSS_4" pintype="passive"/>
+      <node ref="IC3" pin="3" pinfunction="A1" pintype="passive"/>
+      <node ref="IC3" pin="4" pinfunction="A2" pintype="passive"/>
+      <node ref="IC4" pin="13" pinfunction="GND_2" pintype="passive"/>
+      <node ref="IC4" pin="5" pinfunction="GND_1" pintype="passive"/>
+      <node ref="IC5" pin="16" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J2" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="J2" pin="MH1" pinfunction="MH1" pintype="passive"/>
+      <node ref="J2" pin="MH2" pinfunction="MH2" pintype="passive"/>
+      <node ref="J2" pin="MH3" pinfunction="MH3" pintype="passive"/>
+      <node ref="J2" pin="MH4" pinfunction="MH4" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J3" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="LED_MCU_1" pin="1" pintype="passive"/>
+      <node ref="LED_MCU_2" pin="1" pintype="passive"/>
+      <node ref="LED_POWER1" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="S1" pin="2" pinfunction="NO" pintype="passive"/>
+      <node ref="S2" pin="2" pinfunction="NO" pintype="passive"/>
+      <node ref="S3" pin="2" pinfunction="NO" pintype="passive"/>
+      <node ref="S4" pin="2" pinfunction="NO" pintype="passive"/>
+      <node ref="S5" pin="B1" pinfunction="B1" pintype="passive"/>
+      <node ref="S5" pin="D1" pinfunction="D1" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(IC3-LED12)">
+      <node ref="IC3" pin="20" pinfunction="LED12" pintype="passive"/>
+      <node ref="IC3" pin="21" pinfunction="LED13" pintype="passive"/>
+      <node ref="IC3" pin="22" pinfunction="LED14" pintype="passive"/>
+      <node ref="IC3" pin="23" pinfunction="LED15" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(IC3-REXT)">
+      <node ref="IC3" pin="1" pinfunction="REXT" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(LED_MCU_1-Pad2)">
+      <node ref="LED_MCU_1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(LED_MCU_2-Pad2)">
+      <node ref="LED_MCU_2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(LED_POWER1-Pad2)">
+      <node ref="LED_POWER1" pin="2" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(S1-L1)">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="S1" pin="5" pinfunction="L1" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(S2-L1)">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="S2" pin="5" pinfunction="L1" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(S3-L1)">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="S3" pin="5" pinfunction="L1" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(S4-L1)">
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="S4" pin="5" pinfunction="L1" pintype="passive"/>
+    </net>
+    <net code="47" name="VDD">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="5" pinfunction="VOUT" pintype="passive"/>
+      <node ref="IC2" pin="3" pinfunction="VCC" pintype="power_in"/>
+      <node ref="IC3" pin="28" pinfunction="VDD" pintype="passive"/>
+      <node ref="IC4" pin="12" pinfunction="VCC" pintype="passive"/>
+      <node ref="IC5" pin="17" pinfunction="VDDIO/IN/ANA" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="S1" pin="4" pinfunction="L2" pintype="passive"/>
+      <node ref="S2" pin="4" pinfunction="L2" pintype="passive"/>
+      <node ref="S3" pin="4" pinfunction="L2" pintype="passive"/>
+      <node ref="S4" pin="4" pinfunction="L2" pintype="passive"/>
+    </net>
+    <net code="48" name="unconnected-(IC1-NC-Pad4)">
+      <node ref="IC1" pin="4" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="49" name="unconnected-(J1-Pad6)">
+      <node ref="J1" pin="6" pinfunction="6" pintype="passive+no_connect"/>
+    </net>
+    <net code="50" name="unconnected-(J1-Pad8)">
+      <node ref="J1" pin="8" pinfunction="8" pintype="passive+no_connect"/>
+    </net>
+    <net code="51" name="unconnected-(J1-Pad10)">
+      <node ref="J1" pin="10" pinfunction="10" pintype="passive+no_connect"/>
+    </net>
+    <net code="52" name="unconnected-(J1-Pad12)">
+      <node ref="J1" pin="12" pinfunction="12" pintype="passive+no_connect"/>
+    </net>
+    <net code="53" name="unconnected-(J1-Pad14)">
+      <node ref="J1" pin="14" pinfunction="14" pintype="passive+no_connect"/>
+    </net>
+    <net code="54" name="unconnected-(J1-Pad16)">
+      <node ref="J1" pin="16" pinfunction="16" pintype="passive+no_connect"/>
+    </net>
+    <net code="55" name="unconnected-(J1-Pad18)">
+      <node ref="J1" pin="18" pinfunction="18" pintype="passive+no_connect"/>
+    </net>
+    <net code="56" name="unconnected-(J1-Pad20)">
+      <node ref="J1" pin="20" pinfunction="20" pintype="passive+no_connect"/>
+    </net>
+    <net code="57" name="unconnected-(J2-Pad4)">
+      <node ref="J2" pin="4" pinfunction="4" pintype="passive+no_connect"/>
+    </net>
+    <net code="58" name="unconnected-(J3-Pad6)">
+      <node ref="J3" pin="6" pinfunction="6" pintype="passive+no_connect"/>
+    </net>
+    <net code="59" name="unconnected-(J3-Pad7)">
+      <node ref="J3" pin="7" pinfunction="7" pintype="passive+no_connect"/>
+    </net>
+    <net code="60" name="unconnected-(J3-Pad8)">
+      <node ref="J3" pin="8" pinfunction="8" pintype="passive+no_connect"/>
+    </net>
+    <net code="61" name="unconnected-(J3-Pad9)">
+      <node ref="J3" pin="9" pinfunction="9" pintype="passive+no_connect"/>
+    </net>
+    <net code="62" name="unconnected-(S1-NC-Pad3)">
+      <node ref="S1" pin="3" pinfunction="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="63" name="unconnected-(S2-NC-Pad3)">
+      <node ref="S2" pin="3" pinfunction="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="64" name="unconnected-(S3-NC-Pad3)">
+      <node ref="S3" pin="3" pinfunction="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="65" name="unconnected-(S4-NC-Pad3)">
+      <node ref="S4" pin="3" pinfunction="NC" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
