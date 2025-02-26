@@ -1,0 +1,12 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : PCB Document [project_buran_a01.PcbDoc]
+   Generated File[project_buran_a01.RUL]
+   Generated File[project_buran_a01.EXTREP]
+   Generated File[project_buran_a01.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 00:03:32 On 23/03/2021

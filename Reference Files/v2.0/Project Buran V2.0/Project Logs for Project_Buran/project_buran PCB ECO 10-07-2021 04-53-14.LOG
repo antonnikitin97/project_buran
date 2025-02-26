@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=SW0 Pin=IC2-1
+Removed Pin From Net: NetName=SW1 Pin=IC2-2
+Removed Pin From Net: NetName=SW2 Pin=IC2-3
+Removed Pin From Net: NetName=SW3 Pin=IC2-8
+Removed Pin From Net: NetName=SW4 Pin=IC2-10
+Removed Pin From Net: NetName=SW5 Pin=IC2-18
+Removed Pin From Net: NetName=SW6 Pin=IC2-19
+Removed Pin From Net: NetName=SW7 Pin=IC2-20
+Added Component: Designator=IC5(SOIC127P1030X265-16N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PCF8574DW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/pcf8574dw/texas-instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/pcf8574.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PCF8574DW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-PCF8574DW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/PCF8574DW?qs=wgAEGBTxy7mRAJubebRPoQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RESC1609X50X30NL10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW0603110RFKEA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=IC5-1
+Added Pin To Net: NetName=GND Pin=IC5-2
+Added Pin To Net: NetName=GND Pin=IC5-3
+Added Pin To Net: NetName=SW2 Pin=IC5-4
+Added Pin To Net: NetName=SW6 Pin=IC5-5
+Added Pin To Net: NetName=SW3 Pin=IC5-6
+Added Pin To Net: NetName=SW7 Pin=IC5-7
+Added Pin To Net: NetName=GND Pin=IC5-8
+Added Pin To Net: NetName=SW4 Pin=IC5-9
+Added Pin To Net: NetName=SW0 Pin=IC5-10
+Added Pin To Net: NetName=SW5 Pin=IC5-11
+Added Pin To Net: NetName=SW1 Pin=IC5-12
+Added Pin To Net: NetName=SCL Pin=IC5-14
+Added Pin To Net: NetName=SDA Pin=IC5-15
+Added Pin To Net: NetName=VCC Pin=IC5-16
+Added Pin To Net: NetName=VCC Pin=R8-2
+Added Pin To Net: NetName=/INT Pin=IC2-8
+Added Pin To Net: NetName=/INT Pin=IC5-13
+Added Pin To Net: NetName=/INT Pin=R8-1
+Added Net: Name=/INT
+Added Member To Class: ClassName=project_buran_schematic Member=Component IC5 PCF8574DW
+Added Member To Class: ClassName=project_buran_schematic Member=Component R8 10K

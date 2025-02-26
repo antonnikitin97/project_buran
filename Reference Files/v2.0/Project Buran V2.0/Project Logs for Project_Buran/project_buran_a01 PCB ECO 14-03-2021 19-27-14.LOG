@@ -1,0 +1,37 @@
+Added Component: Designator=IC?(SOIC127P1032X265-20N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ATSAMD11D14A-SSUT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/atsamd11d14a-ssut/microchip-technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://ww1.microchip.com/downloads/en/devicedoc/atmel-42363-sam-d11_datasheet.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ATSAMD11D14A-SSUT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "556-ATSAMD11D14ASSUT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/ATSAMD11D14A-SSUT/?qs=lrqjml%252Bjt8f8EFewxXrzCw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Y1(AB15T32768KHZ)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "AB15T-32.768KHZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ab15t-32.768khz/abracon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://abracon.com/Resonators/AB15T.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ABRACON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AB15T-32.768KHZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "815-AB15T-32.768KHZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ABRACON/AB15T-32768KHZ?qs=A7YjigRBFZlcX2Ny5vfBpg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SW0 Pin=IC?-1
+Added Pin To Net: NetName=SW1 Pin=IC?-2
+Added Pin To Net: NetName=SW2 Pin=IC?-3
+Added Pin To Net: NetName=XIN32 Pin=IC?-4
+Added Pin To Net: NetName=XOUT32 Pin=IC?-5
+Added Pin To Net: NetName=SDA Pin=IC?-6
+Added Pin To Net: NetName=SCL Pin=IC?-7
+Added Pin To Net: NetName=SW3 Pin=IC?-8
+Added Pin To Net: NetName=/RESET Pin=IC?-11
+Added Pin To Net: NetName=SWCLK Pin=IC?-12
+Added Pin To Net: NetName=SWDIO Pin=IC?-13
+Added Pin To Net: NetName=D_N Pin=IC?-14
+Added Pin To Net: NetName=D_P Pin=IC?-15
+Added Pin To Net: NetName=GND Pin=IC?-16
+Added Pin To Net: NetName=VCC Pin=IC?-17
+Added Pin To Net: NetName=XOUT32 Pin=Y1-1
+Added Pin To Net: NetName=XIN32 Pin=Y1-2
+Added Member To Class: ClassName=project_buran_schematic Member=Component IC? ATSAMD11D14A-SSUT
+Added Member To Class: ClassName=project_buran_schematic Member=Component Y1 AB15T-32.768KHZ
