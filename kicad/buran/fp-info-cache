@@ -1,4 +1,4 @@
-1716677050700
+1731169276754
 SamacSys_Parts
 292303-4
 292303-4
@@ -42,6 +42,13 @@ Switch
 4
 4
 SamacSys_Parts
+HDRV6W65P0X254_1X6_1502X249X560P
+My 1x6 Single Row Straight Pin Header
+Connector
+0
+6
+6
+SamacSys_Parts
 HDRV20W64P254_2X10_2540X508X838P
 M20-9761042
 Connector
@@ -62,6 +69,20 @@ Connector
 0
 10
 10
+SamacSys_Parts
+RHDR9W70P0X254_1X9_2326X250X865P
+M20-7820946
+Connector
+0
+9
+9
+SamacSys_Parts
+SLM-106-01-X-S
+SLM-106-01-X-S
+Connector
+0
+6
+6
 SamacSys_Parts
 SOIC127P600X175-8N
 D (R-PDSO-G8)
@@ -111,3 +132,10 @@ Integrated Circuit
 0
 5
 5
+SamacSys_Parts
+TC2030MCPNL10
+TC2030-MCP-NL-10
+Connector
+0
+9
+9

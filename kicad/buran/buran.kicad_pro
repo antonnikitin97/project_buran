@@ -55,7 +55,11 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "annular_width|142460000|66799000|a180533c-1b7c-4bb3-bf2a-97aa70fa917a|00000000-0000-0000-0000-000000000000",
+        "annular_width|147540000|65783000|1504f7d8-7d30-4c30-809c-cc666aa2de98|00000000-0000-0000-0000-000000000000",
+        "annular_width|147540000|67815000|64aedea9-9e1f-4334-9fe3-fdef83867920|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
@@ -485,7 +489,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "../../Reference Files/v4.0/",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,
